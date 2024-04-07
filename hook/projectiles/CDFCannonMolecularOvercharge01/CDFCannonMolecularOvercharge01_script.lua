@@ -42,9 +42,10 @@ do
                 }
             end
 
-            
-
             oldCDFCannonMolecular01.OnCreate(self)
+
+            -- engine doesn't play this automagically for us
+            self:PlaySound(self.Blueprint.Audio.ExistLoop)
         end,
     }
 

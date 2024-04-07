@@ -16,8 +16,8 @@ Global Settings
     Header File = D:\work\rts\main\data\sounds\SupCom.h;
     Exclude Category Names = 0;
     Exclude Variable Names = 0;
-    Last Modified Low = 3252146235;
-    Last Modified High = 31099155;
+    Last Modified Low = 4170376001;
+    Last Modified High = 31099159;
 
     Category
     {
@@ -2346,174 +2346,20 @@ Global Settings
 
 Wave Bank
 {
-    Name = Impactnyan;
-    Xbox File = Xbox\Impacts.xwb;
-    Windows File = Win\Impacts.xwb;
-    Xbox Bank Path Edited = 1;
-    Windows Bank Path Edited = 1;
-    Seek Tables = 1;
-    Compression Preset Name = <none>;
-    Xbox Bank Last Modified Low = 0;
-    Xbox Bank Last Modified High = 0;
-    PC Bank Last Modified Low = 3252156239;
-    PC Bank Last Modified High = 31099155;
-    Bank Last Revised Low = 323766819;
-    Bank Last Revised High = 31099154;
-
-    Wave
-    {
-        Name = nya1impact;
-        File = sounds\nyan\nya1impact.wav;
-        Build Settings Last Modified Low = 410148435;
-        Build Settings Last Modified High = 31099126;
-
-        Cache
-        {
-            Format Tag = 0;
-            Channels = 2;
-            Sampling Rate = 44100;
-            Bits Per Sample = 1;
-            Play Region Offset = 44;
-            Play Region Length = 41472;
-            Loop Region Offset = 0;
-            Loop Region Length = 0;
-            File Type = 1;
-            Last Modified Low = 3665172845;
-            Last Modified High = 31099139;
-        }
-    }
-
-    Wave
-    {
-        Name = nya2impact;
-        File = sounds\nyan\nya2impact.wav;
-        Build Settings Last Modified Low = 410158434;
-        Build Settings Last Modified High = 31099126;
-
-        Cache
-        {
-            Format Tag = 0;
-            Channels = 2;
-            Sampling Rate = 44100;
-            Bits Per Sample = 1;
-            Play Region Offset = 44;
-            Play Region Length = 36864;
-            Loop Region Offset = 0;
-            Loop Region Length = 0;
-            File Type = 1;
-            Last Modified Low = 3665182945;
-            Last Modified High = 31099139;
-        }
-    }
-
-    Wave
-    {
-        Name = nyan_01impact;
-        File = sounds\nyan\nyan_01impact.wav;
-        Build Settings Last Modified Low = 410158434;
-        Build Settings Last Modified High = 31099126;
-
-        Cache
-        {
-            Format Tag = 0;
-            Channels = 2;
-            Sampling Rate = 44100;
-            Bits Per Sample = 1;
-            Play Region Offset = 44;
-            Play Region Length = 254172;
-            Loop Region Offset = 0;
-            Loop Region Length = 0;
-            File Type = 1;
-            Last Modified Low = 3665192945;
-            Last Modified High = 31099139;
-        }
-    }
-
-    Wave
-    {
-        Name = nyan_beat;
-        File = sounds\nyan\nyan_beat.wav;
-        Build Settings Last Modified Low = 410158434;
-        Build Settings Last Modified High = 31099126;
-
-        Cache
-        {
-            Format Tag = 0;
-            Channels = 2;
-            Sampling Rate = 44100;
-            Bits Per Sample = 1;
-            Play Region Offset = 44;
-            Play Region Length = 477624;
-            Loop Region Offset = 178396;
-            Loop Region Length = 299228;
-            File Type = 1;
-            Last Modified Low = 3665225365;
-            Last Modified High = 31099139;
-        }
-    }
-
-    Wave
-    {
-        Name = pikanyan-loop;
-        File = sounds\nyan\pikanyan-loop.wav;
-        Build Settings Last Modified Low = 410168427;
-        Build Settings Last Modified High = 31099126;
-
-        Cache
-        {
-            Format Tag = 0;
-            Channels = 2;
-            Sampling Rate = 44100;
-            Bits Per Sample = 1;
-            Play Region Offset = 44;
-            Play Region Length = 19063296;
-            Loop Region Offset = 0;
-            Loop Region Length = 0;
-            File Type = 1;
-            Last Modified Low = 3666006092;
-            Last Modified High = 31099139;
-        }
-    }
-
-    Wave
-    {
-        Name = original-loop;
-        File = sounds\nyan\original-loop.wav;
-        Build Settings Last Modified Low = 410168427;
-        Build Settings Last Modified High = 31099126;
-
-        Cache
-        {
-            Format Tag = 0;
-            Channels = 2;
-            Sampling Rate = 44100;
-            Bits Per Sample = 1;
-            Play Region Offset = 44;
-            Play Region Length = 4773888;
-            Loop Region Offset = 0;
-            Loop Region Length = 0;
-            File Type = 1;
-            Last Modified Low = 3665375572;
-            Last Modified High = 31099139;
-        }
-    }
-}
-
-Wave Bank
-{
     Name = nyan;
     Xbox File = Xbox\nyan.xwb;
     Windows File = Win\nyan.xwb;
     Xbox Bank Path Edited = 0;
     Windows Bank Path Edited = 0;
+    Streaming = 1;
     Seek Tables = 1;
     Compression Preset Name = <none>;
     Xbox Bank Last Modified Low = 0;
     Xbox Bank Last Modified High = 0;
-    PC Bank Last Modified Low = 997051296;
-    PC Bank Last Modified High = 31099156;
-    Bank Last Revised Low = 2881503757;
-    Bank Last Revised High = 31099156;
+    PC Bank Last Modified Low = 4170405997;
+    PC Bank Last Modified High = 31099159;
+    Bank Last Revised Low = 4170395995;
+    Bank Last Revised High = 31099159;
 
     Wave
     {
@@ -2644,12 +2490,12 @@ Wave Bank
             Sampling Rate = 44100;
             Bits Per Sample = 1;
             Play Region Offset = 44;
-            Play Region Length = 19063296;
+            Play Region Length = 4773888;
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 3666006092;
-            Last Modified High = 31099139;
+            Last Modified Low = 4075702339;
+            Last Modified High = 31099159;
         }
     }
 }
@@ -2661,6 +2507,8 @@ Sound Bank
     Windows File = Win\nyan.xsb;
     Xbox Bank Path Edited = 0;
     Windows Bank Path Edited = 0;
+    Bank Last Modified Low = 4170471121;
+    Bank Last Modified High = 31099159;
     Header Last Modified High = 0;
     Header Last Modified Low = 0;
 
@@ -2707,7 +2555,7 @@ Sound Bank
                 Wave Entry
                 {
                     Bank Name = nyan;
-                    Bank Index = 1;
+                    Bank Index = 0;
                     Entry Name = nya2impact;
                     Entry Index = 1;
                     Weight = 255;
@@ -2717,7 +2565,7 @@ Sound Bank
                 Wave Entry
                 {
                     Bank Name = nyan;
-                    Bank Index = 1;
+                    Bank Index = 0;
                     Entry Name = nya1impact;
                     Entry Index = 0;
                     Weight = 255;
@@ -2736,7 +2584,7 @@ Sound Bank
 
         Category Entry
         {
-            Name = Default;
+            Name = World;
         }
 
         Track
@@ -2770,7 +2618,7 @@ Sound Bank
                 Wave Entry
                 {
                     Bank Name = nyan;
-                    Bank Index = 1;
+                    Bank Index = 0;
                     Entry Name = original-loop;
                     Entry Index = 4;
                     Weight = 255;
@@ -2780,7 +2628,7 @@ Sound Bank
                 Wave Entry
                 {
                     Bank Name = nyan;
-                    Bank Index = 1;
+                    Bank Index = 0;
                     Entry Name = pikanyan-loop;
                     Entry Index = 5;
                     Weight = 20;
@@ -2816,7 +2664,7 @@ Sound Bank
 
         Variation
         {
-            Variation Type = 3;
+            Variation Type = 2;
             Variation Table Type = 1;
             New Variation on Loop = 0;
         }
@@ -2827,6 +2675,19 @@ Sound Bank
             Index = 1;
             Weight Min = 0;
             Weight Max = 255;
+        }
+
+        Instance Limit
+        {
+            Max Instances = 1;
+            Behavior = 2;
+
+            Crossfade
+            {
+                Fade In = 1000;
+                Fade Out = 1000;
+                Crossfade Type = 1;
+            }
         }
     }
 }

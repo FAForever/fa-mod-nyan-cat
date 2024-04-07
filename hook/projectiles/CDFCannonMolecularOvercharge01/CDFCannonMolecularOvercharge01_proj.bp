@@ -1,9 +1,9 @@
 ProjectileBlueprint {
-    Merge = true,
+Merge = true,
     Audio = {
         ExistLoop = Sound {
             Bank = 'nyan',
-            Cue = 'loop2',
+            Cue = 'loop',
             LodCutoff = 'DefaultLodCutoff',
         },
         Impact = Sound {
