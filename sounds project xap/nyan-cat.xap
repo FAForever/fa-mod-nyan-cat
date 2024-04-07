@@ -16,8 +16,8 @@ Global Settings
     Header File = D:\work\rts\main\data\sounds\SupCom.h;
     Exclude Category Names = 0;
     Exclude Variable Names = 0;
-    Last Modified Low = 4170376001;
-    Last Modified High = 31099159;
+    Last Modified Low = 23769569;
+    Last Modified High = 31099171;
 
     Category
     {
@@ -1430,7 +1430,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::b7949eba-0c2d-4779-aded-884728d75d82;
+            Name = Sound::528bd4a0-120e-4ff7-9a6f-837a164b6648;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1462,7 +1462,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::fa8a8406-3876-47c8-a53d-9e8c2a65d56d;
+            Name = Sound::503a0a69-9f2c-45d8-8c75-bada6231c456;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1494,7 +1494,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::3d356668-6358-4af1-b2a5-86a6ef775459;
+            Name = Sound::a609d6d3-fe25-446c-b96a-873da4bb72da;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1526,7 +1526,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::48dd7928-621e-42a6-aa31-08ffb8e415b9;
+            Name = Sound::7644f7c2-0ef1-408b-93d0-759ba10099ce;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1558,7 +1558,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::ff234219-8b0c-4b21-a629-5d76c71f8749;
+            Name = Sound::6a79bbfb-4c7e-479c-87ce-212e4a572c6b;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1590,7 +1590,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::af116c09-25db-4eeb-b7d8-e6d4548cb7ec;
+            Name = Sound::cbcaf9bf-b464-46a6-b8ef-90ae234205f0;
             Property = 0;
             Sound = 1;
             Line Color = 4287062800;
@@ -1644,7 +1644,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::e8db4a2a-5706-4636-b2a6-f95a01d9546e;
+            Name = Sound::05a46dbd-5e49-484e-984a-979405fa801c;
             Property = 0;
             Sound = 1;
             Line Color = 4287389511;
@@ -1698,7 +1698,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::3859ec72-b915-46ba-9973-5054d17708fd;
+            Name = 1::469cb7c2-ae88-4bcd-a13d-2937862680e1;
             Property = 0;
             Sound = 0;
             Viewable = 1;
@@ -1724,28 +1724,28 @@ Global Settings
 
             RPC Point
             {
-                X = 181.000046;
+                X = 181.000107;
                 Y = -1315.924561;
                 Curve = 0;
             }
 
             RPC Point
             {
-                X = 412.000092;
+                X = 412.000214;
                 Y = -641.452881;
                 Curve = 0;
             }
 
             RPC Point
             {
-                X = 666.000183;
+                X = 666.000427;
                 Y = -257.278046;
                 Curve = 0;
             }
 
             RPC Point
             {
-                X = 1000.000183;
+                X = 1000.000427;
                 Y = -2.003937;
                 Curve = 0;
             }
@@ -1753,7 +1753,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::5d688768-b8a7-4dad-9dad-d7ce58d00ef8;
+            Name = 1::44126a8f-8994-4479-9a96-4a67e5b5013f;
             Property = 0;
             Sound = 0;
             Line Color = 4294901760;
@@ -1773,7 +1773,7 @@ Global Settings
 
             RPC Point
             {
-                X = 2991.000732;
+                X = 2991.001709;
                 Y = -9600.000000;
                 Curve = 0;
             }
@@ -1786,7 +1786,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::25cc9156-f36e-437a-be35-9b7380305886;
+            Name = Sound::89cd6c61-841c-4568-8f1c-5f1eb958cee2;
             Property = 0;
             Sound = 1;
             Line Color = 4289126945;
@@ -1847,7 +1847,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::981d24d4-14a2-48eb-bf7c-e692c8176ef4;
+            Name = Sound::d09de38c-01d4-40cc-9a99-4925e14d545b;
             Property = 0;
             Sound = 1;
             Line Color = 4293620379;
@@ -1894,7 +1894,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::4801ac41-c938-4cb3-8e71-2aae3598bdb8;
+            Name = 1::f0de3ecd-4d02-42d1-9341-3a7677bf35e4;
             Property = 0;
             Sound = 0;
             Viewable = 1;
@@ -1913,14 +1913,14 @@ Global Settings
 
             RPC Point
             {
-                X = 1592.000366;
+                X = 1592.000854;
                 Y = -236.256271;
                 Curve = 0;
             }
 
             RPC Point
             {
-                X = 3030.000732;
+                X = 3030.001709;
                 Y = -721.437195;
                 Curve = 0;
             }
@@ -1934,7 +1934,7 @@ Global Settings
 
             RPC Point
             {
-                X = 6061.001465;
+                X = 6061.003418;
                 Y = -9600.000000;
                 Curve = 0;
             }
@@ -1947,7 +1947,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::143d7c7f-aeda-42f8-8bc3-f1090c6ba700;
+            Name = Sound::a3a5191a-fa71-4dec-b428-682f15914a70;
             Property = 0;
             Sound = 1;
             Line Color = 4283513994;
@@ -1980,7 +1980,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::4c1023f9-9c7f-4406-bf6c-c77d9af3c00d;
+            Name = 1::0b78611d-1054-407b-9c3a-0099f8adfdcf;
             Property = 0;
             Sound = 0;
             Viewable = 1;
@@ -2027,7 +2027,7 @@ Global Settings
 
             RPC Point
             {
-                X = 14999.002930;
+                X = 14999.006836;
                 Y = 0.000000;
                 Curve = 0;
             }
@@ -2035,7 +2035,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::4a79542f-3b77-4fa0-ad97-21608fb0c39d;
+            Name = 1::9385c195-bea4-4e7f-a5e6-9fa990048bd6;
             Property = 0;
             Sound = 0;
             Line Color = 4294901760;
@@ -2055,7 +2055,7 @@ Global Settings
 
             RPC Point
             {
-                X = 1012.000183;
+                X = 1012.000427;
                 Y = -9600.000000;
                 Curve = 0;
             }
@@ -2068,7 +2068,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::212b5f89-b092-4871-98f1-5ee20df919a2;
+            Name = Sound::b9e2679c-658d-405f-8bea-933d306b5044;
             Property = 0;
             Sound = 1;
             Line Color = 4292556404;
@@ -2122,7 +2122,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::cabedf3a-443d-4b9d-bed7-1323c27568f1;
+            Name = Sound::439b4594-094f-4097-973b-f5ed39264aa1;
             Property = 0;
             Sound = 1;
             Line Color = 4288862961;
@@ -2155,7 +2155,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::3b5d6d0c-87e1-4b50-8537-62d60958d969;
+            Name = Sound::70544d0b-bc68-4d21-873b-3acac220582d;
             Property = 0;
             Sound = 1;
             Line Color = 4291469915;
@@ -2216,7 +2216,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::6021af5d-bf56-401d-acb7-a0f6221003a7;
+            Name = Sound::2c49aebd-fae3-435e-a0ea-438cab00c862;
             Property = 0;
             Sound = 1;
             Line Color = 4283381679;
@@ -2270,7 +2270,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::4fcb92cc-06b2-4bae-81d4-d1f69e704035;
+            Name = Sound::1f6dab50-71cf-40de-9f42-e7e69050a343;
             Property = 0;
             Sound = 1;
             Line Color = 4288885614;
@@ -2356,10 +2356,12 @@ Wave Bank
     Compression Preset Name = <none>;
     Xbox Bank Last Modified Low = 0;
     Xbox Bank Last Modified High = 0;
-    PC Bank Last Modified Low = 4170405997;
-    PC Bank Last Modified High = 31099159;
-    Bank Last Revised Low = 4170395995;
-    Bank Last Revised High = 31099159;
+    PC Bank Last Modified Low = 23804802;
+    PC Bank Last Modified High = 31099171;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 45876929;
+    Bank Last Revised High = 31099171;
 
     Wave
     {
@@ -2379,8 +2381,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 3665172845;
-            Last Modified High = 31099139;
+            Last Modified Low = 3017461591;
+            Last Modified High = 31099163;
         }
     }
 
@@ -2402,8 +2404,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 3665182945;
-            Last Modified High = 31099139;
+            Last Modified Low = 3017731375;
+            Last Modified High = 31099163;
         }
     }
 
@@ -2425,8 +2427,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 3665192945;
-            Last Modified High = 31099139;
+            Last Modified Low = 3018016592;
+            Last Modified High = 31099163;
         }
     }
 
@@ -2448,8 +2450,8 @@ Wave Bank
             Loop Region Offset = 178396;
             Loop Region Length = 299228;
             File Type = 1;
-            Last Modified Low = 3665225365;
-            Last Modified High = 31099139;
+            Last Modified Low = 3018366849;
+            Last Modified High = 31099163;
         }
     }
 
@@ -2471,8 +2473,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 3665375572;
-            Last Modified High = 31099139;
+            Last Modified Low = 3019127690;
+            Last Modified High = 31099163;
         }
     }
 
@@ -2494,8 +2496,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 4075702339;
-            Last Modified High = 31099159;
+            Last Modified Low = 3021170402;
+            Last Modified High = 31099163;
         }
     }
 }
@@ -2507,21 +2509,36 @@ Sound Bank
     Windows File = Win\nyan.xsb;
     Xbox Bank Path Edited = 0;
     Windows Bank Path Edited = 0;
-    Bank Last Modified Low = 4170471121;
-    Bank Last Modified High = 31099159;
+    Bank Last Modified Low = 23905299;
+    Bank Last Modified High = 31099171;
     Header Last Modified High = 0;
     Header Last Modified Low = 0;
 
     Sound
     {
         Name = impact;
-        Volume = -1200;
+        Volume = -600;
         Pitch = 0;
         Priority = 0;
 
         Category Entry
         {
-            Name = Default;
+            Name = Destroy;
+        }
+
+        RPC Entry
+        {
+            RPC Name = Duck;
+        }
+
+        RPC Entry
+        {
+            RPC Name = Angle_Attenuation;
+        }
+
+        RPC Entry
+        {
+            RPC Name = Attenuation Destroy;
         }
 
         Track
@@ -2543,6 +2560,14 @@ Sound Bank
                     Relative = 0;
                     Random Recurrence = 0;
                     Random Offset = 0;
+                }
+
+                Pitch Variation
+                {
+                    Min = -1200;
+                    Max = 819;
+                    Operator = 0;
+                    New Variation On Loop = 0;
                 }
 
                 Variation
@@ -2578,13 +2603,28 @@ Sound Bank
     Sound
     {
         Name = loop;
-        Volume = -1200;
+        Volume = -700;
         Pitch = 0;
         Priority = 0;
 
         Category Entry
         {
-            Name = World;
+            Name = Ambient;
+        }
+
+        RPC Entry
+        {
+            RPC Name = Duck;
+        }
+
+        RPC Entry
+        {
+            RPC Name = Attenuation;
+        }
+
+        RPC Entry
+        {
+            RPC Name = Angle_Attenuation;
         }
 
         Track
@@ -2610,7 +2650,7 @@ Sound Bank
 
                 Variation
                 {
-                    Variation Type = 3;
+                    Variation Type = 2;
                     Variation Table Type = 0;
                     New Variation on Loop = 0;
                 }
@@ -2631,7 +2671,7 @@ Sound Bank
                     Bank Index = 0;
                     Entry Name = pikanyan-loop;
                     Entry Index = 5;
-                    Weight = 20;
+                    Weight = 27;
                     Weight Min = 0;
                 }
             }
