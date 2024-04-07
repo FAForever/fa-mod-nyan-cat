@@ -16,8 +16,8 @@ Global Settings
     Header File = D:\work\rts\main\data\sounds\SupCom.h;
     Exclude Category Names = 0;
     Exclude Variable Names = 0;
-    Last Modified Low = 2970316946;
-    Last Modified High = 31099126;
+    Last Modified Low = 3252146235;
+    Last Modified High = 31099155;
 
     Category
     {
@@ -1430,7 +1430,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::fcdde30e-407e-41fa-b250-d320423492fe;
+            Name = Sound::b7949eba-0c2d-4779-aded-884728d75d82;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1462,7 +1462,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::63d46873-07ee-4f85-9234-185e7bfc65d0;
+            Name = Sound::fa8a8406-3876-47c8-a53d-9e8c2a65d56d;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1494,7 +1494,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::69f69183-4e4e-4a85-b463-306873e90df9;
+            Name = Sound::3d356668-6358-4af1-b2a5-86a6ef775459;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1526,7 +1526,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::a64e15a5-738d-4823-abd1-c28eabb494fc;
+            Name = Sound::48dd7928-621e-42a6-aa31-08ffb8e415b9;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1558,7 +1558,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::99270d09-522f-47a2-93d7-10091c3c5dee;
+            Name = Sound::ff234219-8b0c-4b21-a629-5d76c71f8749;
             Property = 0;
             Sound = 1;
             Viewable = 1;
@@ -1590,7 +1590,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::b876e5a6-7bcf-467b-9ed2-655d6db1dc91;
+            Name = Sound::af116c09-25db-4eeb-b7d8-e6d4548cb7ec;
             Property = 0;
             Sound = 1;
             Line Color = 4287062800;
@@ -1644,7 +1644,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::6292ab5e-d417-4eed-b581-5961aab0c10a;
+            Name = Sound::e8db4a2a-5706-4636-b2a6-f95a01d9546e;
             Property = 0;
             Sound = 1;
             Line Color = 4287389511;
@@ -1698,7 +1698,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::e31df8e0-f303-40b7-8a6d-0522eafaa263;
+            Name = 1::3859ec72-b915-46ba-9973-5054d17708fd;
             Property = 0;
             Sound = 0;
             Viewable = 1;
@@ -1724,28 +1724,28 @@ Global Settings
 
             RPC Point
             {
-                X = 181.000031;
+                X = 181.000046;
                 Y = -1315.924561;
                 Curve = 0;
             }
 
             RPC Point
             {
-                X = 412.000061;
+                X = 412.000092;
                 Y = -641.452881;
                 Curve = 0;
             }
 
             RPC Point
             {
-                X = 666.000122;
+                X = 666.000183;
                 Y = -257.278046;
                 Curve = 0;
             }
 
             RPC Point
             {
-                X = 1000.000122;
+                X = 1000.000183;
                 Y = -2.003937;
                 Curve = 0;
             }
@@ -1753,7 +1753,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::cf79a2bb-c356-4b89-bb05-a5e803d4f0d9;
+            Name = 1::5d688768-b8a7-4dad-9dad-d7ce58d00ef8;
             Property = 0;
             Sound = 0;
             Line Color = 4294901760;
@@ -1773,7 +1773,7 @@ Global Settings
 
             RPC Point
             {
-                X = 2991.000488;
+                X = 2991.000732;
                 Y = -9600.000000;
                 Curve = 0;
             }
@@ -1786,7 +1786,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::2599b6a5-5481-4f61-97b5-cf32b765336d;
+            Name = Sound::25cc9156-f36e-437a-be35-9b7380305886;
             Property = 0;
             Sound = 1;
             Line Color = 4289126945;
@@ -1847,7 +1847,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::ae7b7e99-b275-4e34-bea8-a68567ad2cc0;
+            Name = Sound::981d24d4-14a2-48eb-bf7c-e692c8176ef4;
             Property = 0;
             Sound = 1;
             Line Color = 4293620379;
@@ -1894,7 +1894,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::3768d9fb-a72c-41e9-816d-ba3209216b57;
+            Name = 1::4801ac41-c938-4cb3-8e71-2aae3598bdb8;
             Property = 0;
             Sound = 0;
             Viewable = 1;
@@ -1913,14 +1913,14 @@ Global Settings
 
             RPC Point
             {
-                X = 1592.000244;
+                X = 1592.000366;
                 Y = -236.256271;
                 Curve = 0;
             }
 
             RPC Point
             {
-                X = 3030.000488;
+                X = 3030.000732;
                 Y = -721.437195;
                 Curve = 0;
             }
@@ -1934,7 +1934,7 @@ Global Settings
 
             RPC Point
             {
-                X = 6061.000977;
+                X = 6061.001465;
                 Y = -9600.000000;
                 Curve = 0;
             }
@@ -1947,7 +1947,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::0d243ebc-3f4b-4996-8b1a-9f4b2f173a2e;
+            Name = Sound::143d7c7f-aeda-42f8-8bc3-f1090c6ba700;
             Property = 0;
             Sound = 1;
             Line Color = 4283513994;
@@ -1980,7 +1980,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::d650f3fb-a41a-4094-a623-67be73a8cf32;
+            Name = 1::4c1023f9-9c7f-4406-bf6c-c77d9af3c00d;
             Property = 0;
             Sound = 0;
             Viewable = 1;
@@ -2027,7 +2027,7 @@ Global Settings
 
             RPC Point
             {
-                X = 14999.001953;
+                X = 14999.002930;
                 Y = 0.000000;
                 Curve = 0;
             }
@@ -2035,7 +2035,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = 1::a9d931fb-2136-4178-9572-2e353b091882;
+            Name = 1::4a79542f-3b77-4fa0-ad97-21608fb0c39d;
             Property = 0;
             Sound = 0;
             Line Color = 4294901760;
@@ -2055,7 +2055,7 @@ Global Settings
 
             RPC Point
             {
-                X = 1012.000122;
+                X = 1012.000183;
                 Y = -9600.000000;
                 Curve = 0;
             }
@@ -2068,7 +2068,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::ff0e2c92-c4ef-4ca4-962d-a3e791739b06;
+            Name = Sound::212b5f89-b092-4871-98f1-5ee20df919a2;
             Property = 0;
             Sound = 1;
             Line Color = 4292556404;
@@ -2122,7 +2122,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::10c00bd1-99ff-4869-9a58-8c4e4bf44e06;
+            Name = Sound::cabedf3a-443d-4b9d-bed7-1323c27568f1;
             Property = 0;
             Sound = 1;
             Line Color = 4288862961;
@@ -2155,7 +2155,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::744c024b-9248-447b-acfa-2bc32ea89baf;
+            Name = Sound::3b5d6d0c-87e1-4b50-8537-62d60958d969;
             Property = 0;
             Sound = 1;
             Line Color = 4291469915;
@@ -2216,7 +2216,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::4d06693c-2a81-47df-b0ea-36f3eeb3977b;
+            Name = Sound::6021af5d-bf56-401d-acb7-a0f6221003a7;
             Property = 0;
             Sound = 1;
             Line Color = 4283381679;
@@ -2270,7 +2270,7 @@ Global Settings
 
         RPC Curve
         {
-            Name = Sound::8a3e9df1-5d20-4108-8d05-e4371812e06c;
+            Name = Sound::4fcb92cc-06b2-4bae-81d4-d1f69e704035;
             Property = 0;
             Sound = 1;
             Line Color = 4288885614;
@@ -2355,12 +2355,10 @@ Wave Bank
     Compression Preset Name = <none>;
     Xbox Bank Last Modified Low = 0;
     Xbox Bank Last Modified High = 0;
-    PC Bank Last Modified Low = 2970316946;
-    PC Bank Last Modified High = 31099126;
-    Header Last Modified Low = 0;
-    Header Last Modified High = 0;
-    Bank Last Revised Low = 2645405033;
-    Bank Last Revised High = 31099126;
+    PC Bank Last Modified Low = 3252156239;
+    PC Bank Last Modified High = 31099155;
+    Bank Last Revised Low = 323766819;
+    Bank Last Revised High = 31099154;
 
     Wave
     {
@@ -2380,8 +2378,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 4003350084;
-            Last Modified High = 31099122;
+            Last Modified Low = 3665172845;
+            Last Modified High = 31099139;
         }
     }
 
@@ -2403,8 +2401,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 4003360078;
-            Last Modified High = 31099122;
+            Last Modified Low = 3665182945;
+            Last Modified High = 31099139;
         }
     }
 
@@ -2426,8 +2424,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 1161845220;
-            Last Modified High = 31099124;
+            Last Modified Low = 3665192945;
+            Last Modified High = 31099139;
         }
     }
 
@@ -2449,8 +2447,8 @@ Wave Bank
             Loop Region Offset = 178396;
             Loop Region Length = 299228;
             File Type = 1;
-            Last Modified Low = 4003370084;
-            Last Modified High = 31099122;
+            Last Modified Low = 3665225365;
+            Last Modified High = 31099139;
         }
     }
 
@@ -2472,8 +2470,8 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 1915480859;
-            Last Modified High = 31099125;
+            Last Modified Low = 3666006092;
+            Last Modified High = 31099139;
         }
     }
 
@@ -2495,49 +2493,187 @@ Wave Bank
             Loop Region Offset = 0;
             Loop Region Length = 0;
             File Type = 1;
-            Last Modified Low = 3920958212;
-            Last Modified High = 31099125;
+            Last Modified Low = 3665375572;
+            Last Modified High = 31099139;
+        }
+    }
+}
+
+Wave Bank
+{
+    Name = nyan;
+    Xbox File = Xbox\nyan.xwb;
+    Windows File = Win\nyan.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = <none>;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 997051296;
+    PC Bank Last Modified High = 31099156;
+    Bank Last Revised Low = 2881503757;
+    Bank Last Revised High = 31099156;
+
+    Wave
+    {
+        Name = nya1impact;
+        File = sounds\nyan\nya1impact.wav;
+        Build Settings Last Modified Low = 3198509072;
+        Build Settings Last Modified High = 31099153;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 41472;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3665172845;
+            Last Modified High = 31099139;
+        }
+    }
+
+    Wave
+    {
+        Name = nya2impact;
+        File = sounds\nyan\nya2impact.wav;
+        Build Settings Last Modified Low = 3198519079;
+        Build Settings Last Modified High = 31099153;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 36864;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3665182945;
+            Last Modified High = 31099139;
+        }
+    }
+
+    Wave
+    {
+        Name = nyan_01impact;
+        File = sounds\nyan\nyan_01impact.wav;
+        Build Settings Last Modified Low = 3198519079;
+        Build Settings Last Modified High = 31099153;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 254172;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3665192945;
+            Last Modified High = 31099139;
+        }
+    }
+
+    Wave
+    {
+        Name = nyan_beat;
+        File = sounds\nyan\nyan_beat.wav;
+        Build Settings Last Modified Low = 3198519079;
+        Build Settings Last Modified High = 31099153;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 477624;
+            Loop Region Offset = 178396;
+            Loop Region Length = 299228;
+            File Type = 1;
+            Last Modified Low = 3665225365;
+            Last Modified High = 31099139;
+        }
+    }
+
+    Wave
+    {
+        Name = original-loop;
+        File = sounds\nyan\original-loop.wav;
+        Build Settings Last Modified Low = 3198519079;
+        Build Settings Last Modified High = 31099153;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 4773888;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3665375572;
+            Last Modified High = 31099139;
+        }
+    }
+
+    Wave
+    {
+        Name = pikanyan-loop;
+        File = sounds\nyan\pikanyan-loop.wav;
+        Build Settings Last Modified Low = 3198519079;
+        Build Settings Last Modified High = 31099153;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 19063296;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3666006092;
+            Last Modified High = 31099139;
         }
     }
 }
 
 Sound Bank
 {
-    Name = Impactnyan;
-    Xbox File = Xbox\Impacts.xsb;
-    Windows File = Win\Impacts.xsb;
-    Xbox Bank Path Edited = 1;
-    Windows Bank Path Edited = 1;
-    Bank Last Modified Low = 2970595158;
-    Bank Last Modified High = 31099126;
+    Name = nyan;
+    Xbox File = Xbox\nyan.xsb;
+    Windows File = Win\nyan.xsb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
     Header Last Modified High = 0;
     Header Last Modified Low = 0;
 
     Sound
     {
-        Name = Impact_Land_Gen_UEF;
-        Volume = -600;
+        Name = impact;
+        Volume = -1200;
         Pitch = 0;
         Priority = 0;
 
         Category Entry
         {
-            Name = Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Attenuation Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Duck;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Angle_Attenuation;
+            Name = Default;
         }
 
         Track
@@ -2570,18 +2706,8 @@ Sound Bank
 
                 Wave Entry
                 {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya1impact;
-                    Entry Index = 0;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
+                    Bank Name = nyan;
+                    Bank Index = 1;
                     Entry Name = nya2impact;
                     Entry Index = 1;
                     Weight = 255;
@@ -2590,10 +2716,10 @@ Sound Bank
 
                 Wave Entry
                 {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nyan_01impact;
-                    Entry Index = 2;
+                    Bank Name = nyan;
+                    Bank Index = 1;
+                    Entry Name = nya1impact;
+                    Entry Index = 0;
                     Weight = 255;
                     Weight Min = 0;
                 }
@@ -2603,29 +2729,14 @@ Sound Bank
 
     Sound
     {
-        Name = Impact_Water_Splash_UEF;
-        Volume = -1600;
+        Name = loop;
+        Volume = -1200;
         Pitch = 0;
         Priority = 0;
 
         Category Entry
         {
-            Name = Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Attenuation Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Duck;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Angle_Attenuation;
+            Name = Default;
         }
 
         Track
@@ -2658,559 +2769,21 @@ Sound Bank
 
                 Wave Entry
                 {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya1impact;
-                    Entry Index = 0;
+                    Bank Name = nyan;
+                    Bank Index = 1;
+                    Entry Name = original-loop;
+                    Entry Index = 4;
                     Weight = 255;
                     Weight Min = 0;
                 }
 
                 Wave Entry
                 {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya2impact;
-                    Entry Index = 1;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nyan_01impact;
-                    Entry Index = 2;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-            }
-        }
-    }
-
-    Sound
-    {
-        Name = Impact_Land_Gen_CYBRAN;
-        Volume = -600;
-        Pitch = 100;
-        Priority = 0;
-
-        Category Entry
-        {
-            Name = Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Attenuation Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Duck;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Angle_Attenuation;
-        }
-
-        Track
-        {
-            Volume = 0;
-
-            Play Wave Event
-            {
-                Break Loop = 0;
-                Use Speaker Position = 0;
-                Use Center Speaker = 1;
-                New Speaker Position On Loop = 1;
-                Speaker Position Angle = 0.000000;
-                Speaer Position Arc = 0.000000;
-
-                Event Header
-                {
-                    Timestamp = 0;
-                    Relative = 0;
-                    Random Recurrence = 0;
-                    Random Offset = 0;
-                }
-
-                Variation
-                {
-                    Variation Type = 3;
-                    Variation Table Type = 0;
-                    New Variation on Loop = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya1impact;
-                    Entry Index = 0;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya2impact;
-                    Entry Index = 1;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nyan_01impact;
-                    Entry Index = 2;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-            }
-        }
-    }
-
-    Sound
-    {
-        Name = Impact_Land_Gen_AEON;
-        Volume = -600;
-        Pitch = 0;
-        Priority = 0;
-
-        Category Entry
-        {
-            Name = Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Attenuation Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Duck;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Angle_Attenuation;
-        }
-
-        Track
-        {
-            Volume = 0;
-
-            Play Wave Event
-            {
-                Break Loop = 0;
-                Use Speaker Position = 0;
-                Use Center Speaker = 1;
-                New Speaker Position On Loop = 1;
-                Speaker Position Angle = 0.000000;
-                Speaer Position Arc = 0.000000;
-
-                Event Header
-                {
-                    Timestamp = 0;
-                    Relative = 0;
-                    Random Recurrence = 0;
-                    Random Offset = 0;
-                }
-
-                Variation
-                {
-                    Variation Type = 3;
-                    Variation Table Type = 0;
-                    New Variation on Loop = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya1impact;
-                    Entry Index = 0;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya2impact;
-                    Entry Index = 1;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nyan_01impact;
-                    Entry Index = 2;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-            }
-        }
-    }
-
-    Sound
-    {
-        Name = UEF_Expl_Med_Impact;
-        Volume = -600;
-        Pitch = 0;
-        Priority = 0;
-
-        Category Entry
-        {
-            Name = Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Attenuation Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Duck;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Angle_Attenuation;
-        }
-
-        Track
-        {
-            Volume = 0;
-
-            Play Wave Event
-            {
-                Break Loop = 0;
-                Use Speaker Position = 0;
-                Use Center Speaker = 1;
-                New Speaker Position On Loop = 1;
-                Speaker Position Angle = 0.000000;
-                Speaer Position Arc = 0.000000;
-
-                Event Header
-                {
-                    Timestamp = 0;
-                    Relative = 0;
-                    Random Recurrence = 0;
-                    Random Offset = 0;
-                }
-
-                Variation
-                {
-                    Variation Type = 3;
-                    Variation Table Type = 0;
-                    New Variation on Loop = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya1impact;
-                    Entry Index = 0;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya2impact;
-                    Entry Index = 1;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nyan_01impact;
-                    Entry Index = 2;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-            }
-        }
-    }
-
-    Sound
-    {
-        Name = CYB_Expl_Med_Impact;
-        Volume = -1000;
-        Pitch = 0;
-        Priority = 0;
-
-        Category Entry
-        {
-            Name = Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Attenuation Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Duck;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Angle_Attenuation;
-        }
-
-        Track
-        {
-            Volume = 0;
-
-            Play Wave Event
-            {
-                Break Loop = 0;
-                Use Speaker Position = 0;
-                Use Center Speaker = 1;
-                New Speaker Position On Loop = 1;
-                Speaker Position Angle = 0.000000;
-                Speaer Position Arc = 0.000000;
-
-                Event Header
-                {
-                    Timestamp = 0;
-                    Relative = 0;
-                    Random Recurrence = 0;
-                    Random Offset = 0;
-                }
-
-                Variation
-                {
-                    Variation Type = 3;
-                    Variation Table Type = 0;
-                    New Variation on Loop = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya1impact;
-                    Entry Index = 0;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya2impact;
-                    Entry Index = 1;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nyan_01impact;
-                    Entry Index = 2;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-            }
-        }
-    }
-
-    Sound
-    {
-        Name = AEON_Expl_Med_Impact;
-        Volume = -1000;
-        Pitch = 0;
-        Priority = 0;
-
-        Category Entry
-        {
-            Name = Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Attenuation Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Duck;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Angle_Attenuation;
-        }
-
-        Track
-        {
-            Volume = 0;
-
-            Play Wave Event
-            {
-                Break Loop = 0;
-                Use Speaker Position = 0;
-                Use Center Speaker = 1;
-                New Speaker Position On Loop = 1;
-                Speaker Position Angle = 0.000000;
-                Speaer Position Arc = 0.000000;
-
-                Event Header
-                {
-                    Timestamp = 0;
-                    Relative = 0;
-                    Random Recurrence = 0;
-                    Random Offset = 0;
-                }
-
-                Variation
-                {
-                    Variation Type = 3;
-                    Variation Table Type = 0;
-                    New Variation on Loop = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya1impact;
-                    Entry Index = 0;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya2impact;
-                    Entry Index = 1;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nyan_01impact;
-                    Entry Index = 2;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-            }
-        }
-    }
-
-    Sound
-    {
-        Name = X_Impact_Land_Gen_Seraphim;
-        Volume = -200;
-        Pitch = 0;
-        Priority = 0;
-
-        Category Entry
-        {
-            Name = Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Attenuation Destroy;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Duck;
-        }
-
-        RPC Entry
-        {
-            RPC Name = Angle_Attenuation;
-        }
-
-        Track
-        {
-            Volume = 0;
-
-            Play Wave Event
-            {
-                Break Loop = 0;
-                Use Speaker Position = 0;
-                Use Center Speaker = 1;
-                New Speaker Position On Loop = 1;
-                Speaker Position Angle = 0.000000;
-                Speaer Position Arc = 0.000000;
-
-                Event Header
-                {
-                    Timestamp = 0;
-                    Relative = 0;
-                    Random Recurrence = 0;
-                    Random Offset = 0;
-                }
-
-                Variation
-                {
-                    Variation Type = 3;
-                    Variation Table Type = 0;
-                    New Variation on Loop = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya1impact;
-                    Entry Index = 0;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nya2impact;
-                    Entry Index = 1;
-                    Weight = 255;
-                    Weight Min = 0;
-                }
-
-                Wave Entry
-                {
-                    Bank Name = Impactnyan;
-                    Bank Index = 0;
-                    Entry Name = nyan_01impact;
-                    Entry Index = 2;
-                    Weight = 255;
+                    Bank Name = nyan;
+                    Bank Index = 1;
+                    Entry Name = pikanyan-loop;
+                    Entry Index = 5;
+                    Weight = 20;
                     Weight Min = 0;
                 }
             }
@@ -3219,8 +2792,7 @@ Sound Bank
 
     Cue
     {
-        Name = Impact_Land_Gen_UEF;
-        Comment = Medium weapon impacts;
+        Name = impact;
 
         Variation
         {
@@ -3231,30 +2803,16 @@ Sound Bank
 
         Sound Entry
         {
-            Name = Impact_Land_Gen_UEF;
+            Name = impact;
             Index = 0;
             Weight Min = 0;
             Weight Max = 255;
         }
-
-        Instance Limit
-        {
-            Max Instances = 12;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
     }
 
     Cue
     {
-        Name = Impact_Water_Splash_UEF;
-        Comment = Medium Weapon Impacts;
+        Name = loop;
 
         Variation
         {
@@ -3265,291 +2823,10 @@ Sound Bank
 
         Sound Entry
         {
-            Name = Impact_Water_Splash_UEF;
+            Name = loop;
             Index = 1;
             Weight Min = 0;
             Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 8;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
-    }
-
-    Cue
-    {
-        Name = Impact_Land_Gen_CYBRAN;
-        Comment = Medium weapon impacts;
-
-        Variation
-        {
-            Variation Type = 3;
-            Variation Table Type = 1;
-            New Variation on Loop = 0;
-        }
-
-        Sound Entry
-        {
-            Name = Impact_Land_Gen_CYBRAN;
-            Index = 2;
-            Weight Min = 0;
-            Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 10;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
-    }
-
-    Cue
-    {
-        Name = Impact_Land_Gen_AEON;
-        Comment = Medium weapon impacts;
-
-        Variation
-        {
-            Variation Type = 3;
-            Variation Table Type = 1;
-            New Variation on Loop = 0;
-        }
-
-        Sound Entry
-        {
-            Name = Impact_Land_Gen_AEON;
-            Index = 3;
-            Weight Min = 0;
-            Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 10;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
-    }
-
-    Cue
-    {
-        Name = Impact_Water_Splash_CYBRAN;
-        Comment = Medium Weapon Impacts;
-
-        Variation
-        {
-            Variation Type = 3;
-            Variation Table Type = 1;
-            New Variation on Loop = 0;
-        }
-
-        Sound Entry
-        {
-            Name = Impact_Water_Splash_UEF;
-            Index = 1;
-            Weight Min = 0;
-            Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 8;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
-    }
-
-    Cue
-    {
-        Name = Impact_Water_Splash_AEON;
-        Comment = Medium Weapon Impacts;
-
-        Variation
-        {
-            Variation Type = 3;
-            Variation Table Type = 1;
-            New Variation on Loop = 0;
-        }
-
-        Sound Entry
-        {
-            Name = Impact_Water_Splash_UEF;
-            Index = 1;
-            Weight Min = 0;
-            Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 8;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
-    }
-
-    Cue
-    {
-        Name = UEF_Expl_Med_Impact;
-
-        Variation
-        {
-            Variation Type = 3;
-            Variation Table Type = 1;
-            New Variation on Loop = 0;
-        }
-
-        Sound Entry
-        {
-            Name = UEF_Expl_Med_Impact;
-            Index = 4;
-            Weight Min = 0;
-            Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 8;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
-    }
-
-    Cue
-    {
-        Name = CYB_Expl_Med_Impact;
-
-        Variation
-        {
-            Variation Type = 3;
-            Variation Table Type = 1;
-            New Variation on Loop = 0;
-        }
-
-        Sound Entry
-        {
-            Name = CYB_Expl_Med_Impact;
-            Index = 5;
-            Weight Min = 0;
-            Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 8;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
-    }
-
-    Cue
-    {
-        Name = AEON_Expl_Med_Impact;
-
-        Variation
-        {
-            Variation Type = 3;
-            Variation Table Type = 1;
-            New Variation on Loop = 0;
-        }
-
-        Sound Entry
-        {
-            Name = AEON_Expl_Med_Impact;
-            Index = 6;
-            Weight Min = 0;
-            Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 8;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
-        }
-    }
-
-    Cue
-    {
-        Name = X_Impact_Land_Gen_Seraphim;
-
-        Variation
-        {
-            Variation Type = 3;
-            Variation Table Type = 1;
-            New Variation on Loop = 0;
-        }
-
-        Sound Entry
-        {
-            Name = X_Impact_Land_Gen_Seraphim;
-            Index = 7;
-            Weight Min = 0;
-            Weight Max = 255;
-        }
-
-        Instance Limit
-        {
-            Max Instances = 10;
-            Behavior = 0;
-
-            Crossfade
-            {
-                Fade In = 0;
-                Fade Out = 0;
-                Crossfade Type = 0;
-            }
         }
     }
 }

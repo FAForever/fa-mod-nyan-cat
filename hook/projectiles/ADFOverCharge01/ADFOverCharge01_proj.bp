@@ -1,19 +1,24 @@
 ProjectileBlueprint {
-Merge = true,
+    Merge = true,
     Audio = {
+        ExistLoop = Sound {
+            Bank = 'nyan',
+            Cue = 'loop',
+            LodCutoff = 'DefaultLodCutoff',
+        },
         Impact = Sound {
-            Bank = 'Impactnyan',
-            Cue = 'AEON_Expl_Med_Impact',
+            Bank = 'nyan',
+            Cue = 'impact',
             LodCutoff = 'Weapon_LodCutoff',
         },
         ImpactTerrain = Sound {
-            Bank = 'Impactnyan',
-            Cue = 'Impact_Land_Gen_AEON',
+            Bank = 'nyan',
+            Cue = 'impact',
             LodCutoff = 'Weapon_LodCutoff',
         },
         ImpactWater = Sound {
-            Bank = 'Impactnyan',
-            Cue = 'Impact_Water_Splash_AEON',
+            Bank = 'nyan',
+            Cue = 'impact',
             LodCutoff = 'Weapon_LodCutoff',
         },
     },
